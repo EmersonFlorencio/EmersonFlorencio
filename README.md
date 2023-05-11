@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emerson Florencio</h1>
 <h3 align="center">A web developer from Brazil thats loves technology</h3>
 
-- 🌱 I’m currently learning **backend node.js, express and another stuffs**
+- 🌱 I’m currently learning **computer science with python and design patterns**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmersonFlorencio](https://github.com/EmersonFlorencio)
 
