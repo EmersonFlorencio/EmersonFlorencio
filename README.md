@@ -4,6 +4,7 @@
 
 <p align="left"> 
 Tenho 31 anos e atualmente morando em São Paulo Capital, recentemente finalizei o curso profissionalizante de Desenvolvimento Web Full-Stack pela <strong>Trybe</strong>> onde consegui desenvolver minhas hard skills e aperfeiçoei minhas softs skills como trabalhar em equipe, resiliencia e empatia, e melhorar meus pontos fracos como comunicação e assertividade.
+<br>
 Estou sempre em busca de desafios e oportunidades para aprender e crescer. Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
 
 <h2 align="left">
