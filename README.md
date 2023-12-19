@@ -28,7 +28,7 @@ Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em
 <a href="https://wa.me/+5511992287929" title="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-
+<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonFlorencio&show_icons=true&theme=city_lights)
