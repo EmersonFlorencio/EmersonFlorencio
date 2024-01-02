@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Tenho 31 anos e atualmente morando em São Paulo Capital, recentemente finalizei o curso profissionalizante de Desenvolvimento Web Full-Stack pela <strong>Trybe</strong> onde consegui desenvolver minhas hard skills e aperfeiçoei minhas softs skills como trabalhar em equipe, resiliencia e empatia, e melhorar meus pontos fracos como comunicação e assertividade.Estou sempre em busca de desafios e oportunidades para aprender e crescer. 
+Tenho 32 anos e moro atualmente em São Paulo/Capital, aprendi programação no curso de Desenvolvimento Web Full-Stack oferecido <strong>Trybe</strong>. Nessa época, estava vindo de uma transição de carreira para a área de tecnologia e não tinha nenhum conhecimento prévio sobre programar. Com muito esforço consegui desenvolver alguns projetos e concluir o curso nesse período de estudo, continuo me aperfeiçoando e estudando para tentar estar atualizado na com as novidades que vão surgindo no nosso cotidiano.
 <br>
 <br>
-Se você estiver interessado em colaborar ou compartilhar ideias, não hesite em entrar em contato comigo.
+Se você estiver interessado conversar sobre a área de tecnologia ou até mesmo outros assuntos, não hesite em entrar em contato comigo 😁.
 
 <h2 align="left">
   Linguagens:
