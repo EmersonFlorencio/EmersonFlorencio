@@ -29,9 +29,9 @@ Se você estiver interessado conversar sobre a área de tecnologia ou até mesmo
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <br>
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonFlorencio&show_icons=true&theme=city_lights)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonFlorencio&show_icons=true&theme=transparent)
 
 <br>
