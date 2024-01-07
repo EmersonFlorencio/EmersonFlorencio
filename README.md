@@ -29,9 +29,16 @@ Se você estiver interessado conversar sobre a área de tecnologia ou até mesmo
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 <br>
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonFlorencio&show_icons=true&theme=city_lights)
+<a href="https://github.com/EmersonFlorencio">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmersonFlorencio&theme=radical" alt="EmersonFlorencio's GitHub Contribution"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmersonFlorencio&show_icons=true&theme=transparent)
+<a href="https://github.com/EmersonFlorencio">
+      <img alt="Emerson Florencio's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EmersonFlorencio&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
 
+<a href="https://github.com/EmersonFlorencio">
+    <img alt="EmersonFlorencio's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EmersonFlorencio&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+    
+<br>
 <br>
